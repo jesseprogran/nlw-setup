@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #202036;
+  color: white;
+  height: 100vh;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 48px;
+}
+
+button {
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 1px solid #595976;
+  background-color: transparent;
+  color:white;
+  gap: 12px;
+
+  display: flex;
+  align-items: center;
+  font-family: 'Play', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  cursor: pointer;
+}
+
+input {
+  appearance: none;
+  -webkit-appearance: none;
+
+  width: 64px;
+  height: 64px;
+  border:2px solid #49495b;
+  border-radius: 8px;
+  background:#000000;
+}
+/* Pseudo selector */
+input:checked {
+  background: #cfcdd4;
+  border:2px solid #49495b;
+}
