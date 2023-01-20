@@ -13,14 +13,10 @@ Que tive o Prazer de Participar. <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://user-images.githubusercontent.com/113396724/213824825-e0d450c5-9613-40ee-a479-a9b51f6e5201.jpeg">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -47,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Jessé Silva
+Feito com ♥ by Jessé Silva.
